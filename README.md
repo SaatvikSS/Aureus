@@ -32,7 +32,7 @@ A modern and intuitive mobile application built with React Native and Expo to he
 
 1. Clone the repository:
 ```bash
-git clone [your-repo-url]
+git clone [https://github.com/SaatvikSS/Aureus.git]
 ```
 
 2. Install dependencies:
